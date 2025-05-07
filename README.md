@@ -1,7 +1,7 @@
 # Exp - 2 LIBRARY MANAGEMENT SYSTEM
 
 # AIM:
-To draw the UML diagram for Library Management.
+To draw the UML diagram for Library Management System.
 
 # SRS (Procedure):
 List of Programs:
